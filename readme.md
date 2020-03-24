@@ -1,1 +1,1 @@
-LSTM Network predicts one character of alphabet  from three-char  
+LSTM Network predicts one character of alphabet from three-char  
